@@ -1,7 +1,7 @@
 # JDownloader CLI
 
 Command line interface to [JDownloader](https://jdownloader.org/) based
-on [jdownloader-go](https://github.com/rkosegi/jdownloader-go) library.
+on [jdownloader-go](https://github.com/tinng81/jdownloader-go) library.
 
 ### Implemented commands
 

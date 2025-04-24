@@ -19,7 +19,7 @@ package internal
 import (
 	"bufio"
 	"fmt"
-	"github.com/rkosegi/jdownloader-go/jdownloader"
+	"github.com/tinng81/jdownloader-go/jdownloader"
 	"github.com/spf13/cobra"
 	"go.uber.org/zap"
 	"golang.org/x/term"

@@ -24,7 +24,7 @@ import (
 	"strconv"
 
 	"github.com/olekukonko/tablewriter"
-	"github.com/rkosegi/jdownloader-go/jdownloader"
+	"github.com/tinng81/jdownloader-go/jdownloader"
 	"github.com/spf13/cobra"
 )
 

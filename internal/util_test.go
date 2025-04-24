@@ -17,7 +17,7 @@ limitations under the License.
 package internal
 
 import (
-	"github.com/rkosegi/jdownloader-go/jdownloader"
+	"github.com/tinng81/jdownloader-go/jdownloader"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

@@ -17,7 +17,7 @@ limitations under the License.
 package main
 
 import (
-	"github.com/rkosegi/jdownloader-cli/internal"
+	"github.com/tinng81/jdownloader-cli/internal"
 	"os"
 )
 

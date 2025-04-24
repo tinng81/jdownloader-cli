@@ -33,10 +33,10 @@ builds:
     binary: jdownloader-cli
     ldflags:
       - -s -w
-      - -X github.com/rkosegi/jdownloader-cli/internal.Version={{.Version}}
-      - -X github.com/rkosegi/jdownloader-cli/internal.Revision={{.Commit}}
-      - -X github.com/rkosegi/jdownloader-cli/internal.Branch={{.Tag}}
-      - -X github.com/rkosegi/jdownloader-cli/internal.BuildDate={{.Date}}
-      - -X github.com/rkosegi/jdownloader-cli/internal.BuildUser={{.Env.USER}}
+      - -X github.com/tinng81/jdownloader-cli/internal.Version={{.Version}}
+      - -X github.com/tinng81/jdownloader-cli/internal.Revision={{.Commit}}
+      - -X github.com/tinng81/jdownloader-cli/internal.Branch={{.Tag}}
+      - -X github.com/tinng81/jdownloader-cli/internal.BuildDate={{.Date}}
+      - -X github.com/tinng81/jdownloader-cli/internal.BuildUser={{.Env.USER}}
 archives:
   - format: binary

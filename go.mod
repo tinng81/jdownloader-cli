@@ -12,16 +12,16 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-module github.com/rkosegi/jdownloader-cli
+module github.com/tinng81/jdownloader-cli
 
-go 1.23.0
+go 1.24.1
 
 require (
 	github.com/olekukonko/tablewriter v0.0.5
-	github.com/rkosegi/jdownloader-go v1.0.3
 	github.com/spf13/cobra v1.9.1
 	github.com/spf13/pflag v1.0.6
 	github.com/stretchr/testify v1.10.0
+	github.com/tinng81/jdownloader-go v0.0.0-20250423132051-4bf0ad710c99
 	go.uber.org/zap v1.27.0
 	golang.org/x/term v0.31.0
 	gopkg.in/yaml.v3 v3.0.1
